@@ -1,2 +1,1 @@
-# arbol-binario-grafico-en-java
-Arbol binario grafico en Java
+Arbol binario con interfaz grafico en Java
